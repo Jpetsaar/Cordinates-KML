@@ -1,7 +1,7 @@
 # IMGtoKML
 #### Necessary files:
-- kml.fmt
-- ExifTool
+- [kml.fmt](https://github.com/exiftool/exiftool/blob/master/fmt_files/kml.fmt)
+- [ExifTool](https://exiftool.org/)
 - [Google Earth Pro](https://www.google.com/earth/versions/#download-pro)
 
 #### Usage:
