@@ -1,6 +1,6 @@
 # IMGtoKML
 #### Necessary files:
-- kml.fmt link: tuleb kaasa exiftooliga samas pakendis
+- kml.fmt link: https://github.com/exiftool/exiftool/blob/master/fmt_files/kml.fmt
 - ExifTool link: https://exiftool.org/ :esimene link
 - Google Earth Pro link: https://www.google.com/earth/versions/ :viimane link
 
